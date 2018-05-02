@@ -1,3 +1,5 @@
+POC Application with dhtmlxGrid used in an Angular 5 Component
+------------- 
 # DhtmlxPoc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.

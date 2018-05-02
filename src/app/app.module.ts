@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { DhtmlxGridComponent } from './dhtmlx-grid/dhtmlx-grid.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    DhtmlxGridComponent
   ],
   imports: [
     BrowserModule
